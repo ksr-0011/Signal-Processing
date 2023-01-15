@@ -1,6 +1,6 @@
 # Lab
 
-- Lab handout is <strong> Lab1.pdf </strong> in this repository.
+- Lab handout is <strong> Lab3.pdf </strong> in this repository.
 - Code has been done in MATLAB.
 - Plots are in the <strong> Result </strong> folder and code files inside <strong> Code </strong> folder.
 - A report containing observations is also present.
